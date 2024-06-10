@@ -1,0 +1,6 @@
+@EntityFramework_CodeFirstMigrations_SQLServer_CRUD_Create_Read_Update_Delete__HostAddress = http://localhost:5119
+
+GET {{EntityFramework_CodeFirstMigrations_SQLServer_CRUD_Create_Read_Update_Delete__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
