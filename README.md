@@ -6,10 +6,8 @@
 2. Create your DataContext Class
 3. add your connection string t appsettings.json
 
-		"ConnectionStrings": {
-    "DefaultConnection": "Server=.;Database=MyEntityTable;Trusted_Connection=true;TrustServerCertificate=True;"
-},
-
+	"ConnectionStrings": { "DefaultConnection": "Server=.;Database=MyEntityTable;Trusted_Connection=true;TrustServerCertificate=True;"},
+    
 4. install Microsoft.EntityFrameworkCore.SQLServer from nugetpackagemanmagment
 5. Add your DbContext to your program.cs
 
